@@ -45,3 +45,11 @@ Intuitive Interface: Simple and user-friendly interface for seamless navigation.
 # Contributing:
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request. Your feedback and contributions help make Expense Tracker better for everyone.
+
+# Output:
+
+![Screenshot 2024-05-10 154115](https://github.com/kunalakrishna12/Expenses-Tracker/assets/64822404/e498a0c7-b2fc-454a-8ac9-af4251570b50)
+
+![Screenshot 2024-05-10 154722](https://github.com/kunalakrishna12/Expenses-Tracker/assets/64822404/0da6fe15-d8af-4444-bdcc-7dc5e64cbdd4)
+
+
