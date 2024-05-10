@@ -7,9 +7,13 @@ Expense Tracker is a Python-based application designed to help users track their
 # Key Features:
 
 Expense Logging: Easily add expenses with customizable categories.
+
 Budget Management: Set monthly budgets and track spending against them.
+
 Category Summaries: View summaries of expenses by category.
+
 Daily Budget Calculation: Calculate and display daily budget based on remaining funds.
+
 Intuitive Interface: Simple and user-friendly interface for seamless navigation.
 
 # How to Use:
@@ -17,6 +21,7 @@ Intuitive Interface: Simple and user-friendly interface for seamless navigation.
 1.Installation:
 
 -Clone the repository: git clone https://github.com/kunalakrishna12/Expenses-Tracker
+
 -Navigate to the project directory: cd Expense-Tracker
 
 2.Run the Application:
@@ -26,12 +31,15 @@ Intuitive Interface: Simple and user-friendly interface for seamless navigation.
 3.Usage:
 
 -Enter your budget for the month.
+
 -Add expenses and categorize them.
+
 -View summaries and monitor your spending habits.
 
 4.Customization:
 
 -Customize expense categories and budget thresholds as needed.
+
 -Modify the code to suit your preferences or add new features.
 
 # Contributing:
