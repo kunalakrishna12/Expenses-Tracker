@@ -16,8 +16,8 @@ Intuitive Interface: Simple and user-friendly interface for seamless navigation.
 
 1.Installation:
 
--Clone the repository: git clone https://github.com/your_username/expense-tracker.git
--Navigate to the project directory: cd expense-tracker
+-Clone the repository: git clone https://github.com/kunalakrishna12/Expenses-Tracker
+-Navigate to the project directory: cd Expense-Tracker
 
 2.Run the Application:
 
