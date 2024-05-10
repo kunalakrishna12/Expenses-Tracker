@@ -80,11 +80,14 @@ def summarize_user_expense(expense_file_path, budget ):
     with open(expense_file_path,"r", encoding="utf-8") as f:
         lines = f.readlines()
         for line in lines:
-            expense_name,expense_amount, expense_category = line.strip().split(",")
-            line_expense = Expense(
-                name=expense_name, category=expense_category, amount=float(expense_amount)
-            )
-            expenses.append(line_expense)
+            try:
+                expense_name,expense_amount, expense_category = line.strip().split(",")
+                line_expense = Expense(
+                    name=expense_name, category=expense_category, amount=float(expense_amount)
+                )
+                expenses.append(line_expense)
+            except ValueError:
+                print(f"Skipping invalid line: {line}")
 
     amount_by_category = {}
     for expense in expenses:
